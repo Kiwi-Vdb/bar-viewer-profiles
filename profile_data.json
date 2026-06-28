@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782676551,
+  "generated_at": 1782676738,
   "viewers": {
     "itsvdb": {
       "username": "itsvdb",
@@ -98,8 +98,16 @@
         "rarity": "common",
         "class_name": "text-green"
       },
-      "loot_boxes_opened": 3,
+      "loot_boxes_opened": 4,
       "recent_unlocks": [
+        {
+          "name": "Orange Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-orange",
+          "timestamp": 1782676738
+        },
         {
           "name": "Purple Text",
           "category": "Text Effect",
@@ -115,14 +123,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782674434
-        },
-        {
-          "name": "Yellow Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-yellow",
-          "timestamp": 1782673951
         }
       ],
       "totals": {
@@ -130,7 +130,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 8,
         "text_effects_available": 15,
-        "recent_unlocks": 3
+        "recent_unlocks": 4
       }
     }
   },
