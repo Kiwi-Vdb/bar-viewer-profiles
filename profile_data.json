@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782674811,
+  "generated_at": 1782674822,
   "viewers": {
     "itsvdb": {
       "username": "itsvdb",
@@ -93,10 +93,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-gold-sparkle",
-        "name": "Gold Sparkle Text",
+        "id": "text-glitch-sweep",
+        "name": "Glitch Sweep Text",
         "rarity": "legendary",
-        "class_name": "text-gold-sparkle"
+        "class_name": "text-glitch-sweep"
       },
       "loot_boxes_opened": 3,
       "recent_unlocks": [
