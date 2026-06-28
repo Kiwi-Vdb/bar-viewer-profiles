@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782676214,
+  "generated_at": 1782676551,
   "viewers": {
     "itsvdb": {
       "username": "itsvdb",
@@ -93,10 +93,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-animated-rainbow",
-        "name": "Animated Rainbow Text",
-        "rarity": "legendary",
-        "class_name": "text-animated-rainbow"
+        "id": "text-green",
+        "name": "Green Text",
+        "rarity": "common",
+        "class_name": "text-green"
       },
       "loot_boxes_opened": 3,
       "recent_unlocks": [
