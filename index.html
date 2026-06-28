@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BAR Stream Viewer Profiles</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="page">
+    <section class="hero card">
+      <div>
+        <p class="eyebrow">BAR Stream Companion</p>
+        <h1>Viewer Profiles</h1>
+        <p class="subtext">Search your Twitch name to view cosmetics, text effects, loot boxes, and recent unlocks.</p>
+      </div>
+
+      <form id="searchForm" class="search">
+        <input id="usernameInput" type="text" placeholder="Twitch username" autocomplete="off" />
+        <button type="submit">View Profile</button>
+      </form>
+    </section>
+
+    <section id="profile" class="profile hidden">
+      <div class="card profile-header">
+        <div>
+          <p class="eyebrow">Viewer</p>
+          <h2 id="profileName">-</h2>
+          <p id="profileLink" class="subtext profile-link"></p>
+        </div>
+        <div class="stat-grid compact">
+          <div class="stat">
+            <span class="label">Metal</span>
+            <strong id="metalValue">Private</strong>
+          </div>
+          <div class="stat">
+            <span class="label">Loot Boxes Opened</span>
+            <strong id="lootBoxesOpened">0</strong>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid">
+        <section class="card">
+          <div class="section-heading">
+            <h3>Cosmetics Unlocked</h3>
+            <span id="cosmeticCount" class="pill">0</span>
+          </div>
+          <div id="cosmeticsList" class="item-list"></div>
+        </section>
+
+        <section class="card">
+          <div class="section-heading">
+            <h3>Text Effects Unlocked</h3>
+            <span id="textEffectCount" class="pill">0</span>
+          </div>
+          <p class="hint">Click a text effect to copy its Twitch command.</p>
+          <div id="textEffectsList" class="item-list"></div>
+        </section>
+
+        <section class="card current-card">
+          <div class="section-heading">
+            <h3>Current Text Effect</h3>
+          </div>
+          <div id="currentTextEffect" class="current-effect muted">None equipped</div>
+        </section>
+
+        <section class="card">
+          <div class="section-heading">
+            <h3>Recent Unlocks</h3>
+            <span class="pill">Last 3</span>
+          </div>
+          <div id="recentUnlocks" class="item-list"></div>
+        </section>
+      </div>
+    </section>
+
+    <section id="message" class="card message hidden"></section>
+    <section id="toast" class="toast hidden"></section>
+  </main>
+
+  <script src="profile.js"></script>
+</body>
+</html>
