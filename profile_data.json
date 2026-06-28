@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782673939,
+  "generated_at": 1782673958,
   "viewers": {
     "itsvdb": {
       "username": "itsvdb",
@@ -70,6 +70,13 @@
           "rarity": "common",
           "class_name": "text-green",
           "equip_command": "!equiptext Green"
+        },
+        {
+          "id": "text-yellow",
+          "name": "Yellow Text",
+          "rarity": "common",
+          "class_name": "text-yellow",
+          "equip_command": "!equiptext Yellow"
         }
       ],
       "current_text_effect": {
@@ -78,14 +85,23 @@
         "rarity": "legendary",
         "class_name": "text-glitch-sweep"
       },
-      "loot_boxes_opened": 0,
-      "recent_unlocks": [],
+      "loot_boxes_opened": 1,
+      "recent_unlocks": [
+        {
+          "name": "Yellow Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-yellow",
+          "timestamp": 1782673951
+        }
+      ],
       "totals": {
         "cosmetics_unlocked": 3,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 6,
+        "text_effects_unlocked": 7,
         "text_effects_available": 15,
-        "recent_unlocks": 0
+        "recent_unlocks": 1
       }
     }
   },
