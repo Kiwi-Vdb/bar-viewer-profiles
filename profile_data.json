@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782676086,
+  "generated_at": 1782676214,
   "viewers": {
     "itsvdb": {
       "username": "itsvdb",
@@ -93,10 +93,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-glitch-sweep",
-        "name": "Glitch Sweep Text",
+        "id": "text-animated-rainbow",
+        "name": "Animated Rainbow Text",
         "rarity": "legendary",
-        "class_name": "text-glitch-sweep"
+        "class_name": "text-animated-rainbow"
       },
       "loot_boxes_opened": 3,
       "recent_unlocks": [
