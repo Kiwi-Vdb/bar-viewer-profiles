@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782674440,
+  "generated_at": 1782674519,
   "viewers": {
     "itsvdb": {
       "username": "itsvdb",
@@ -91,8 +91,16 @@
         "rarity": "legendary",
         "class_name": "text-glitch-sweep"
       },
-      "loot_boxes_opened": 2,
+      "loot_boxes_opened": 3,
       "recent_unlocks": [
+        {
+          "name": "Purple Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-purple",
+          "timestamp": 1782674519
+        },
         {
           "name": "Apprentice Hat",
           "category": "Hat",
@@ -115,7 +123,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 7,
         "text_effects_available": 15,
-        "recent_unlocks": 2
+        "recent_unlocks": 3
       }
     }
   },
