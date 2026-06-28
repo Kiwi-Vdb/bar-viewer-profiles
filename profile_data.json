@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782674519,
+  "generated_at": 1782674525,
   "viewers": {
     "itsvdb": {
       "username": "itsvdb",
@@ -83,6 +83,13 @@
           "rarity": "common",
           "class_name": "text-yellow",
           "equip_command": "!equiptext Yellow"
+        },
+        {
+          "id": "text-purple",
+          "name": "Purple Text",
+          "rarity": "common",
+          "class_name": "text-purple",
+          "equip_command": "!equiptext Purple"
         }
       ],
       "current_text_effect": {
@@ -121,7 +128,7 @@
       "totals": {
         "cosmetics_unlocked": 4,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 7,
+        "text_effects_unlocked": 8,
         "text_effects_available": 15,
         "recent_unlocks": 3
       }
