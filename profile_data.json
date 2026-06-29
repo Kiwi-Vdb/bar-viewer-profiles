@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782733399,
+  "generated_at": 1782733426,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -9,7 +9,15 @@
         "message": "Twitch does not expose viewer Channel Points balances to bots."
       },
       "cosmetics_unlocked": [],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-yellow",
+          "name": "Yellow Text",
+          "rarity": "common",
+          "class_name": "text-yellow",
+          "equip_command": "!equiptext Yellow"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 1,
       "recent_unlocks": [
@@ -25,7 +33,7 @@
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 15,
         "recent_unlocks": 1
       }
@@ -135,10 +143,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-animated-rainbow",
-        "name": "Animated Rainbow Text",
-        "rarity": "legendary",
-        "class_name": "text-animated-rainbow"
+        "id": "text-green",
+        "name": "Green Text",
+        "rarity": "common",
+        "class_name": "text-green"
       },
       "loot_boxes_opened": 5,
       "recent_unlocks": [
