@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782735651,
+  "generated_at": 1782738129,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -57,10 +57,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-yellow",
-        "name": "Yellow Text",
+        "id": "text-orange",
+        "name": "Orange Text",
         "rarity": "common",
-        "class_name": "text-yellow"
+        "class_name": "text-orange"
       },
       "loot_boxes_opened": 7,
       "recent_unlocks": [
