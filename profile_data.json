@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782734853,
+  "generated_at": 1782734859,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -13,6 +13,12 @@
           "id": "hand:poesidon staff",
           "name": "Poesidon Staff",
           "category": "Hand",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
           "rarity": "common"
         }
       ],
@@ -66,7 +72,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 1,
+        "cosmetics_unlocked": 2,
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
         "text_effects_available": 15,
