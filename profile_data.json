@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782733845,
+  "generated_at": 1782733920,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -60,7 +60,12 @@
           "equip_command": "!equiptext Brown"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-brown",
+        "name": "Brown Text",
+        "rarity": "common",
+        "class_name": "text-brown"
+      },
       "loot_boxes_opened": 1,
       "recent_unlocks": [
         {
@@ -185,10 +190,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-green",
-        "name": "Green Text",
-        "rarity": "common",
-        "class_name": "text-green"
+        "id": "text-animated-rainbow",
+        "name": "Animated Rainbow Text",
+        "rarity": "legendary",
+        "class_name": "text-animated-rainbow"
       },
       "loot_boxes_opened": 5,
       "recent_unlocks": [
