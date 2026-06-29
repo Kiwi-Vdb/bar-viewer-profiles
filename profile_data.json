@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782733839,
+  "generated_at": 1782733845,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -51,7 +51,15 @@
         "message": "Twitch does not expose viewer Channel Points balances to bots."
       },
       "cosmetics_unlocked": [],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-brown",
+          "name": "Brown Text",
+          "rarity": "common",
+          "class_name": "text-brown",
+          "equip_command": "!equiptext Brown"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 1,
       "recent_unlocks": [
@@ -67,7 +75,7 @@
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 15,
         "recent_unlocks": 1
       }
