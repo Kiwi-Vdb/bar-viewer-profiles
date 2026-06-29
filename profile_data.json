@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782738266,
+  "generated_at": 1782738296,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -310,8 +310,16 @@
         "rarity": "legendary",
         "class_name": "text-animated-rainbow"
       },
-      "loot_boxes_opened": 7,
+      "loot_boxes_opened": 8,
       "recent_unlocks": [
+        {
+          "name": "Teal Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-teal",
+          "timestamp": 1782738296
+        },
         {
           "name": "Brown Text",
           "category": "Text Effect",
@@ -327,14 +335,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782735521
-        },
-        {
-          "name": "Poesidon Staff",
-          "category": "Hand",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782732846
         }
       ],
       "totals": {
@@ -342,7 +342,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 10,
         "text_effects_available": 15,
-        "recent_unlocks": 7
+        "recent_unlocks": 8
       }
     }
   },
