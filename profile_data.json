@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782734859,
+  "generated_at": 1782734905,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -20,6 +20,12 @@
           "name": "Bday Hat",
           "category": "Hat",
           "rarity": "common"
+        },
+        {
+          "id": "emote:quiz hat",
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare"
         }
       ],
       "text_effects_unlocked": [
@@ -44,8 +50,16 @@
         "rarity": "common",
         "class_name": "text-yellow"
       },
-      "loot_boxes_opened": 4,
+      "loot_boxes_opened": 5,
       "recent_unlocks": [
+        {
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782734899
+        },
         {
           "name": "Bday Hat",
           "category": "Hat",
@@ -61,22 +75,14 @@
           "type": "text_effect",
           "text_effect": "text-orange",
           "timestamp": 1782734698
-        },
-        {
-          "name": "Poesidon Staff",
-          "category": "Hand",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782734230
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 2,
+        "cosmetics_unlocked": 3,
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
         "text_effects_available": 15,
-        "recent_unlocks": 4
+        "recent_unlocks": 5
       }
     },
     "iamdibi": {
