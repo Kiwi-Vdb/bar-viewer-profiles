@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782738159,
+  "generated_at": 1782738179,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -54,13 +54,20 @@
           "rarity": "common",
           "class_name": "text-orange",
           "equip_command": "!equiptext Orange"
+        },
+        {
+          "id": "text-green",
+          "name": "Green Text",
+          "rarity": "common",
+          "class_name": "text-green",
+          "equip_command": "!equiptext Green"
         }
       ],
       "current_text_effect": {
-        "id": "text-orange",
-        "name": "Orange Text",
+        "id": "text-green",
+        "name": "Green Text",
         "rarity": "common",
-        "class_name": "text-orange"
+        "class_name": "text-green"
       },
       "loot_boxes_opened": 8,
       "recent_unlocks": [
@@ -92,7 +99,7 @@
       "totals": {
         "cosmetics_unlocked": 5,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 2,
+        "text_effects_unlocked": 3,
         "text_effects_available": 15,
         "recent_unlocks": 8
       }
