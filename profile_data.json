@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782734659,
+  "generated_at": 1782734665,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -73,6 +73,12 @@
           "rarity": "common"
         },
         {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "emote:scav fog",
           "name": "Scav Fog",
           "category": "Emote",
@@ -97,6 +103,14 @@
       "loot_boxes_opened": 4,
       "recent_unlocks": [
         {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782734659
+        },
+        {
           "name": "Sword",
           "category": "Hand",
           "rarity": "common",
@@ -111,22 +125,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782733952
-        },
-        {
-          "name": "Brown Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-brown",
-          "timestamp": 1782733839
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 2,
+        "cosmetics_unlocked": 3,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 15,
-        "recent_unlocks": 3
+        "recent_unlocks": 4
       }
     },
     "itsvdb": {
