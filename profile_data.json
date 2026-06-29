@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782735521,
+  "generated_at": 1782735527,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -189,6 +189,12 @@
           "rarity": "common"
         },
         {
+          "id": "hand:sword",
+          "name": "Sword",
+          "category": "Hand",
+          "rarity": "common"
+        },
+        {
           "id": "hat:apprentice hat",
           "name": "Apprentice Hat",
           "category": "Hat",
@@ -312,7 +318,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 5,
+        "cosmetics_unlocked": 6,
         "cosmetics_available": 24,
         "text_effects_unlocked": 9,
         "text_effects_available": 15,
