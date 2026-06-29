@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782734905,
+  "generated_at": 1782734923,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -106,6 +106,12 @@
           "rarity": "common"
         },
         {
+          "id": "emote:quiz hat",
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare"
+        },
+        {
           "id": "emote:scav fog",
           "name": "Scav Fog",
           "category": "Emote",
@@ -127,8 +133,16 @@
         "rarity": "common",
         "class_name": "text-brown"
       },
-      "loot_boxes_opened": 4,
+      "loot_boxes_opened": 5,
       "recent_unlocks": [
+        {
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782734917
+        },
         {
           "name": "Bday Hat",
           "category": "Hat",
@@ -144,22 +158,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782734254
-        },
-        {
-          "name": "Scav Fog",
-          "category": "Emote",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782733952
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 3,
+        "cosmetics_unlocked": 4,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 15,
-        "recent_unlocks": 4
+        "recent_unlocks": 5
       }
     },
     "itsvdb": {
