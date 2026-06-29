@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782733952,
+  "generated_at": 1782733958,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -50,7 +50,14 @@
         "label": "Metal",
         "message": "Twitch does not expose viewer Channel Points balances to bots."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "emote:scav fog",
+          "name": "Scav Fog",
+          "category": "Emote",
+          "rarity": "legendary"
+        }
+      ],
       "text_effects_unlocked": [
         {
           "id": "text-brown",
@@ -86,7 +93,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 15,
