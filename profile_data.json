@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782738408,
+  "generated_at": 1782738421,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -226,6 +226,12 @@
           "rarity": "common"
         },
         {
+          "id": "hat:witch hat",
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "hat:wizards hat",
           "name": "Wizards Hat",
           "category": "Hat",
@@ -330,8 +336,16 @@
         "rarity": "legendary",
         "class_name": "text-animated-rainbow"
       },
-      "loot_boxes_opened": 10,
+      "loot_boxes_opened": 11,
       "recent_unlocks": [
+        {
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782738415
+        },
         {
           "name": "Angel Wings",
           "category": "Back",
@@ -347,22 +361,14 @@
           "type": "text_effect",
           "text_effect": "text-blue",
           "timestamp": 1782738305
-        },
-        {
-          "name": "Teal Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-teal",
-          "timestamp": 1782738296
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 7,
+        "cosmetics_unlocked": 8,
         "cosmetics_available": 24,
         "text_effects_unlocked": 12,
         "text_effects_available": 15,
-        "recent_unlocks": 10
+        "recent_unlocks": 11
       }
     }
   },
