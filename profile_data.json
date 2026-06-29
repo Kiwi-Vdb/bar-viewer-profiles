@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782752096,
+  "generated_at": 1782752102,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -117,6 +117,12 @@
           "name": "Poesidon Staff",
           "category": "Hand",
           "rarity": "common"
+        },
+        {
+          "id": "hat:ranger cap",
+          "name": "Ranger Cap",
+          "category": "Hat",
+          "rarity": "common"
         }
       ],
       "text_effects_unlocked": [
@@ -157,7 +163,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 1,
+        "cosmetics_unlocked": 2,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 15,
