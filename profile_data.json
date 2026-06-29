@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782746164,
+  "generated_at": 1782752096,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -129,8 +129,16 @@
         }
       ],
       "current_text_effect": null,
-      "loot_boxes_opened": 2,
+      "loot_boxes_opened": 3,
       "recent_unlocks": [
+        {
+          "name": "Ranger Cap",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782752096
+        },
         {
           "name": "Poesidon Staff",
           "category": "Hand",
@@ -153,7 +161,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 15,
-        "recent_unlocks": 2
+        "recent_unlocks": 3
       }
     },
     "grazzabee": {
