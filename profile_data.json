@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782746158,
+  "generated_at": 1782746164,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -111,7 +111,14 @@
         "label": "Metal",
         "message": "Twitch does not expose viewer Channel Points balances to bots."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "hand:poesidon staff",
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common"
+        }
+      ],
       "text_effects_unlocked": [
         {
           "id": "text-red",
@@ -142,7 +149,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 15,
