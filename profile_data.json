@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782738323,
+  "generated_at": 1782738329,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -230,6 +230,12 @@
           "name": "Wizards Hat",
           "category": "Hat",
           "rarity": "common"
+        },
+        {
+          "id": "back:angel wings",
+          "name": "Angel Wings",
+          "category": "Back",
+          "rarity": "rare"
         }
       ],
       "text_effects_unlocked": [
@@ -352,7 +358,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 6,
+        "cosmetics_unlocked": 7,
         "cosmetics_available": 24,
         "text_effects_unlocked": 12,
         "text_effects_available": 15,
