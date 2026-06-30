@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782840351,
+  "generated_at": 1782840357,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -324,6 +324,12 @@
           "rarity": "common"
         },
         {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "hat:party hat angle",
           "name": "Party Hat Angle",
           "category": "Hat",
@@ -487,7 +493,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 9,
+        "cosmetics_unlocked": 10,
         "cosmetics_available": 24,
         "text_effects_unlocked": 13,
         "text_effects_available": 15,
