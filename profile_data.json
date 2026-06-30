@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782834747,
+  "generated_at": 1782834796,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -524,9 +524,22 @@
           "equip_command": "!equiptext Purple"
         }
       ],
-      "current_text_effect": null,
-      "loot_boxes_opened": 3,
+      "current_text_effect": {
+        "id": "text-purple",
+        "name": "Purple Text",
+        "rarity": "common",
+        "class_name": "text-purple"
+      },
+      "loot_boxes_opened": 4,
       "recent_unlocks": [
+        {
+          "name": "Green Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-green",
+          "timestamp": 1782834796
+        },
         {
           "name": "Purple Text",
           "category": "Text Effect",
@@ -542,14 +555,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782834680
-        },
-        {
-          "name": "Scav Fog",
-          "category": "Emote",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782834431
         }
       ],
       "totals": {
@@ -557,7 +562,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 15,
-        "recent_unlocks": 3
+        "recent_unlocks": 4
       }
     }
   },
