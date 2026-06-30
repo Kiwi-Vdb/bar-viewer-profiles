@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782830208,
+  "generated_at": 1782833952,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -69,8 +69,16 @@
         "rarity": "common",
         "class_name": "text-green"
       },
-      "loot_boxes_opened": 8,
+      "loot_boxes_opened": 9,
       "recent_unlocks": [
+        {
+          "name": "Blue Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-blue",
+          "timestamp": 1782833952
+        },
         {
           "name": "Green Text",
           "category": "Text Effect",
@@ -86,14 +94,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782735581
-        },
-        {
-          "name": "Wizards Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782735065
         }
       ],
       "totals": {
@@ -101,7 +101,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 3,
         "text_effects_available": 15,
-        "recent_unlocks": 8
+        "recent_unlocks": 9
       }
     },
     "betterstrategy": {
