@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782834680,
+  "generated_at": 1782834686,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -503,6 +503,12 @@
       },
       "cosmetics_unlocked": [
         {
+          "id": "hat:witch hat",
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "emote:scav fog",
           "name": "Scav Fog",
           "category": "Emote",
@@ -514,6 +520,14 @@
       "loot_boxes_opened": 2,
       "recent_unlocks": [
         {
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782834680
+        },
+        {
           "name": "Scav Fog",
           "category": "Emote",
           "rarity": "legendary",
@@ -523,11 +537,11 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 1,
+        "cosmetics_unlocked": 2,
         "cosmetics_available": 24,
         "text_effects_unlocked": 0,
         "text_effects_available": 15,
-        "recent_unlocks": 1
+        "recent_unlocks": 2
       }
     }
   },
