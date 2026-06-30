@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782840273,
+  "generated_at": 1782840351,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -459,8 +459,16 @@
         "rarity": "legendary",
         "class_name": "text-animated-rainbow"
       },
-      "loot_boxes_opened": 13,
+      "loot_boxes_opened": 14,
       "recent_unlocks": [
+        {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782840351
+        },
         {
           "name": "Ranger Cap",
           "category": "Hat",
@@ -476,14 +484,6 @@
           "type": "text_effect",
           "text_effect": "text-pink",
           "timestamp": 1782739079
-        },
-        {
-          "name": "Blue Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-blue",
-          "timestamp": 1782738305
         }
       ],
       "totals": {
@@ -491,7 +491,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 13,
         "text_effects_available": 15,
-        "recent_unlocks": 8
+        "recent_unlocks": 9
       }
     },
     "sharpishdog": {
