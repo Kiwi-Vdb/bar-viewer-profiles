@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782834741,
+  "generated_at": 1782834747,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -515,7 +515,15 @@
           "rarity": "legendary"
         }
       ],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-purple",
+          "name": "Purple Text",
+          "rarity": "common",
+          "class_name": "text-purple",
+          "equip_command": "!equiptext Purple"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 3,
       "recent_unlocks": [
@@ -547,7 +555,7 @@
       "totals": {
         "cosmetics_unlocked": 2,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 15,
         "recent_unlocks": 3
       }
