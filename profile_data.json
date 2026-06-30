@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782833952,
+  "generated_at": 1782833958,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -61,6 +61,13 @@
           "rarity": "common",
           "class_name": "text-green",
           "equip_command": "!equiptext Green"
+        },
+        {
+          "id": "text-blue",
+          "name": "Blue Text",
+          "rarity": "common",
+          "class_name": "text-blue",
+          "equip_command": "!equiptext Blue"
         }
       ],
       "current_text_effect": {
@@ -99,7 +106,7 @@
       "totals": {
         "cosmetics_unlocked": 5,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 3,
+        "text_effects_unlocked": 4,
         "text_effects_available": 15,
         "recent_unlocks": 9
       }
