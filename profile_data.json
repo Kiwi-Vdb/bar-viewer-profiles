@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782919451,
+  "generated_at": 1782919479,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -13,6 +13,12 @@
           "id": "hand:poesidon staff",
           "name": "Poesidon Staff",
           "category": "Hand",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:apprentice hat",
+          "name": "Apprentice Hat",
+          "category": "Hat",
           "rarity": "common"
         },
         {
@@ -74,6 +80,13 @@
           "rarity": "common",
           "class_name": "text-blue",
           "equip_command": "!equiptext Blue"
+        },
+        {
+          "id": "text-pink",
+          "name": "Pink Text",
+          "rarity": "common",
+          "class_name": "text-pink",
+          "equip_command": "!equiptext Pink"
         }
       ],
       "current_text_effect": {
@@ -82,8 +95,16 @@
         "rarity": "common",
         "class_name": "text-orange"
       },
-      "loot_boxes_opened": 11,
+      "loot_boxes_opened": 12,
       "recent_unlocks": [
+        {
+          "name": "Apprentice Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782919473
+        },
         {
           "name": "Pink Text",
           "category": "Text Effect",
@@ -99,22 +120,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782915444
-        },
-        {
-          "name": "Blue Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-blue",
-          "timestamp": 1782833952
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 6,
+        "cosmetics_unlocked": 7,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 4,
+        "text_effects_unlocked": 5,
         "text_effects_available": 15,
-        "recent_unlocks": 11
+        "recent_unlocks": 12
       }
     },
     "betterstrategy": {
