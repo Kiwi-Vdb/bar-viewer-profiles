@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782919479,
+  "generated_at": 1782919504,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -87,6 +87,20 @@
           "rarity": "common",
           "class_name": "text-pink",
           "equip_command": "!equiptext Pink"
+        },
+        {
+          "id": "text-brown",
+          "name": "Brown Text",
+          "rarity": "common",
+          "class_name": "text-brown",
+          "equip_command": "!equiptext Brown"
+        },
+        {
+          "id": "text-red",
+          "name": "Red Text",
+          "rarity": "common",
+          "class_name": "text-red",
+          "equip_command": "!equiptext Red"
         }
       ],
       "current_text_effect": {
@@ -95,8 +109,24 @@
         "rarity": "common",
         "class_name": "text-orange"
       },
-      "loot_boxes_opened": 12,
+      "loot_boxes_opened": 14,
       "recent_unlocks": [
+        {
+          "name": "Red Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-red",
+          "timestamp": 1782919498
+        },
+        {
+          "name": "Brown Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-brown",
+          "timestamp": 1782919486
+        },
         {
           "name": "Apprentice Hat",
           "category": "Hat",
@@ -104,30 +134,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782919473
-        },
-        {
-          "name": "Pink Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-pink",
-          "timestamp": 1782919451
-        },
-        {
-          "name": "Ranger Cap",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782915444
         }
       ],
       "totals": {
         "cosmetics_unlocked": 7,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 5,
+        "text_effects_unlocked": 7,
         "text_effects_available": 15,
-        "recent_unlocks": 12
+        "recent_unlocks": 14
       }
     },
     "betterstrategy": {
