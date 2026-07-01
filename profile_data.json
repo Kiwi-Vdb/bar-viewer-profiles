@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782912025,
+  "generated_at": 1782915444,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -76,8 +76,16 @@
         "rarity": "common",
         "class_name": "text-blue"
       },
-      "loot_boxes_opened": 9,
+      "loot_boxes_opened": 10,
       "recent_unlocks": [
+        {
+          "name": "Ranger Cap",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782915444
+        },
         {
           "name": "Blue Text",
           "category": "Text Effect",
@@ -93,14 +101,6 @@
           "type": "text_effect",
           "text_effect": "text-green",
           "timestamp": 1782738159
-        },
-        {
-          "name": "Witch Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782735581
         }
       ],
       "totals": {
@@ -108,7 +108,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 4,
         "text_effects_available": 15,
-        "recent_unlocks": 9
+        "recent_unlocks": 10
       }
     },
     "betterstrategy": {
