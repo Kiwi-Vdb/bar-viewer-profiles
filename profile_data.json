@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782907995,
+  "generated_at": 1782908055,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -194,7 +194,12 @@
           "equip_command": "!equiptext Teal"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-teal",
+        "name": "Teal Text",
+        "rarity": "common",
+        "class_name": "text-teal"
+      },
       "loot_boxes_opened": 1,
       "recent_unlocks": [
         {
