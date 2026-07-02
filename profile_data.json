@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783019840,
+  "generated_at": 1783019913,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -174,7 +174,12 @@
           "equip_command": "!equiptext Red"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-red",
+        "name": "Red Text",
+        "rarity": "common",
+        "class_name": "text-red"
+      },
       "loot_boxes_opened": 3,
       "recent_unlocks": [
         {
@@ -269,7 +274,12 @@
           "equip_command": "!equiptext Purple"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-purple",
+        "name": "Purple Text",
+        "rarity": "common",
+        "class_name": "text-purple"
+      },
       "loot_boxes_opened": 1,
       "recent_unlocks": [
         {
@@ -320,7 +330,12 @@
           "equip_command": "!equiptext Rainbow Comet"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-rainbow-comet",
+        "name": "Rainbow Comet Text",
+        "rarity": "rare",
+        "class_name": "text-rainbow-comet"
+      },
       "loot_boxes_opened": 2,
       "recent_unlocks": [
         {
@@ -664,10 +679,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-glitch-sweep",
-        "name": "Glitch Sweep Text",
+        "id": "text-black-hole",
+        "name": "Black Hole Text",
         "rarity": "legendary",
-        "class_name": "text-glitch-sweep"
+        "class_name": "text-black-hole"
       },
       "loot_boxes_opened": 15,
       "recent_unlocks": [
