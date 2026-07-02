@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783000555,
+  "generated_at": 1783000598,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -634,10 +634,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-portal",
-        "name": "Portal Text",
+        "id": "text-gift-box-surprise",
+        "name": "Gift Box Surprise Text",
         "rarity": "legendary",
-        "class_name": "text-portal"
+        "class_name": "text-gift-box-surprise"
       },
       "loot_boxes_opened": 15,
       "recent_unlocks": [
