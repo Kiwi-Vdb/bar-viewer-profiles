@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783009086,
+  "generated_at": 1783009107,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -634,10 +634,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-gold-sparkle",
-        "name": "Gold Sparkle Text",
-        "rarity": "legendary",
-        "class_name": "text-gold-sparkle"
+        "id": "text-wavy",
+        "name": "Wavy Text",
+        "rarity": "rare",
+        "class_name": "text-wavy"
       },
       "loot_boxes_opened": 15,
       "recent_unlocks": [
