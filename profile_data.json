@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783018274,
+  "generated_at": 1783019283,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -311,11 +311,26 @@
           "rarity": "common",
           "class_name": "text-red",
           "equip_command": "!equiptext Red"
+        },
+        {
+          "id": "text-rainbow-comet",
+          "name": "Rainbow Comet Text",
+          "rarity": "rare",
+          "class_name": "text-rainbow-comet",
+          "equip_command": "!equiptext Rainbow Comet"
         }
       ],
       "current_text_effect": null,
       "loot_boxes_opened": 2,
       "recent_unlocks": [
+        {
+          "name": "Rainbow Comet Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-rainbow-comet",
+          "timestamp": 1783019283
+        },
         {
           "name": "Red Text",
           "category": "Text Effect",
@@ -336,9 +351,9 @@
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 2,
+        "text_effects_unlocked": 3,
         "text_effects_available": 20,
-        "recent_unlocks": 2
+        "recent_unlocks": 3
       }
     },
     "iamdibi": {
