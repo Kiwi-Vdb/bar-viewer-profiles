@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782999027,
+  "generated_at": 1782999215,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -500,11 +500,81 @@
           "equip_command": "!equiptext Red"
         },
         {
+          "id": "text-blue",
+          "name": "Blue Text",
+          "rarity": "common",
+          "class_name": "text-blue",
+          "equip_command": "!equiptext Blue"
+        },
+        {
+          "id": "text-green",
+          "name": "Green Text",
+          "rarity": "common",
+          "class_name": "text-green",
+          "equip_command": "!equiptext Green"
+        },
+        {
+          "id": "text-yellow",
+          "name": "Yellow Text",
+          "rarity": "common",
+          "class_name": "text-yellow",
+          "equip_command": "!equiptext Yellow"
+        },
+        {
+          "id": "text-orange",
+          "name": "Orange Text",
+          "rarity": "common",
+          "class_name": "text-orange",
+          "equip_command": "!equiptext Orange"
+        },
+        {
+          "id": "text-brown",
+          "name": "Brown Text",
+          "rarity": "common",
+          "class_name": "text-brown",
+          "equip_command": "!equiptext Brown"
+        },
+        {
+          "id": "text-purple",
+          "name": "Purple Text",
+          "rarity": "common",
+          "class_name": "text-purple",
+          "equip_command": "!equiptext Purple"
+        },
+        {
+          "id": "text-pink",
+          "name": "Pink Text",
+          "rarity": "common",
+          "class_name": "text-pink",
+          "equip_command": "!equiptext Pink"
+        },
+        {
+          "id": "text-teal",
+          "name": "Teal Text",
+          "rarity": "common",
+          "class_name": "text-teal",
+          "equip_command": "!equiptext Teal"
+        },
+        {
           "id": "text-rainbow",
           "name": "Rainbow Text",
           "rarity": "rare",
           "class_name": "text-rainbow",
           "equip_command": "!equiptext Rainbow"
+        },
+        {
+          "id": "text-sparkle",
+          "name": "Sparkle Text",
+          "rarity": "rare",
+          "class_name": "text-sparkle",
+          "equip_command": "!equiptext Sparkle"
+        },
+        {
+          "id": "text-wavy",
+          "name": "Wavy Text",
+          "rarity": "rare",
+          "class_name": "text-wavy",
+          "equip_command": "!equiptext Wavy"
         },
         {
           "id": "text-animated-rainbow",
@@ -528,75 +598,35 @@
           "equip_command": "!equiptext Glitch Sweep"
         },
         {
-          "id": "text-green",
-          "name": "Green Text",
-          "rarity": "common",
-          "class_name": "text-green",
-          "equip_command": "!equiptext Green"
-        },
-        {
-          "id": "text-yellow",
-          "name": "Yellow Text",
-          "rarity": "common",
-          "class_name": "text-yellow",
-          "equip_command": "!equiptext Yellow"
-        },
-        {
-          "id": "text-purple",
-          "name": "Purple Text",
-          "rarity": "common",
-          "class_name": "text-purple",
-          "equip_command": "!equiptext Purple"
-        },
-        {
-          "id": "text-orange",
-          "name": "Orange Text",
-          "rarity": "common",
-          "class_name": "text-orange",
-          "equip_command": "!equiptext Orange"
-        },
-        {
-          "id": "text-brown",
-          "name": "Brown Text",
-          "rarity": "common",
-          "class_name": "text-brown",
-          "equip_command": "!equiptext Brown"
-        },
-        {
-          "id": "text-teal",
-          "name": "Teal Text",
-          "rarity": "common",
-          "class_name": "text-teal",
-          "equip_command": "!equiptext Teal"
-        },
-        {
-          "id": "text-blue",
-          "name": "Blue Text",
-          "rarity": "common",
-          "class_name": "text-blue",
-          "equip_command": "!equiptext Blue"
-        },
-        {
-          "id": "text-pink",
-          "name": "Pink Text",
-          "rarity": "common",
-          "class_name": "text-pink",
-          "equip_command": "!equiptext Pink"
-        },
-        {
-          "id": "text-wavy",
-          "name": "Wavy Text",
+          "id": "text-candle-wish",
+          "name": "Candle Wish Text",
           "rarity": "rare",
-          "class_name": "text-wavy",
-          "equip_command": "!equiptext Wavy"
+          "class_name": "text-candle-wish",
+          "equip_command": "!equiptext Candle Wish"
+        },
+        {
+          "id": "text-rainbow-comet",
+          "name": "Rainbow Comet Text",
+          "rarity": "rare",
+          "class_name": "text-rainbow-comet",
+          "equip_command": "!equiptext Rainbow Comet"
+        },
+        {
+          "id": "text-black-hole",
+          "name": "Black Hole Text",
+          "rarity": "legendary",
+          "class_name": "text-black-hole",
+          "equip_command": "!equiptext Black Hole"
+        },
+        {
+          "id": "text-portal",
+          "name": "Portal Text",
+          "rarity": "legendary",
+          "class_name": "text-portal",
+          "equip_command": "!equiptext Portal"
         }
       ],
-      "current_text_effect": {
-        "id": "text-animated-rainbow",
-        "name": "Animated Rainbow Text",
-        "rarity": "legendary",
-        "class_name": "text-animated-rainbow"
-      },
+      "current_text_effect": null,
       "loot_boxes_opened": 15,
       "recent_unlocks": [
         {
@@ -627,7 +657,7 @@
       "totals": {
         "cosmetics_unlocked": 10,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 14,
+        "text_effects_unlocked": 19,
         "text_effects_available": 20,
         "recent_unlocks": 10
       }
