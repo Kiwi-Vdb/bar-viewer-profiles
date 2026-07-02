@@ -1,5 +1,5 @@
 {
-  "generated_at": 1782919522,
+  "generated_at": 1782999027,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -140,7 +140,7 @@
         "cosmetics_unlocked": 7,
         "cosmetics_available": 24,
         "text_effects_unlocked": 7,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 14
       }
     },
@@ -206,7 +206,7 @@
         "cosmetics_unlocked": 2,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 3
       }
     },
@@ -248,7 +248,7 @@
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 1
       }
     },
@@ -285,7 +285,7 @@
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 1
       }
     },
@@ -322,7 +322,7 @@
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 1
       }
     },
@@ -418,7 +418,7 @@
         "cosmetics_unlocked": 5,
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 7
       }
     },
@@ -628,7 +628,7 @@
         "cosmetics_unlocked": 10,
         "cosmetics_available": 24,
         "text_effects_unlocked": 14,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 10
       }
     },
@@ -664,7 +664,7 @@
         "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
         "text_effects_unlocked": 0,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 1
       }
     },
@@ -700,7 +700,7 @@
         "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
         "text_effects_unlocked": 0,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 1
       }
     },
@@ -784,7 +784,7 @@
         "cosmetics_unlocked": 3,
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
-        "text_effects_available": 15,
+        "text_effects_available": 20,
         "recent_unlocks": 5
       }
     }
@@ -1026,10 +1026,40 @@
         "name": "Glitch Sweep Text",
         "rarity": "legendary",
         "class_name": "text-glitch-sweep"
+      },
+      {
+        "id": "text-candle-wish",
+        "name": "Candle Wish Text",
+        "rarity": "rare",
+        "class_name": "text-candle-wish"
+      },
+      {
+        "id": "text-rainbow-comet",
+        "name": "Rainbow Comet Text",
+        "rarity": "rare",
+        "class_name": "text-rainbow-comet"
+      },
+      {
+        "id": "text-portal",
+        "name": "Portal Text",
+        "rarity": "legendary",
+        "class_name": "text-portal"
+      },
+      {
+        "id": "text-black-hole",
+        "name": "Black Hole Text",
+        "rarity": "legendary",
+        "class_name": "text-black-hole"
+      },
+      {
+        "id": "text-gift-box-surprise",
+        "name": "Gift Box Surprise Text",
+        "rarity": "legendary",
+        "class_name": "text-gift-box-surprise"
       }
     ],
     "cosmetics_total": 24,
-    "text_effects_total": 15
+    "text_effects_total": 20
   },
   "notes": {
     "metal": "Twitch does not expose viewer Channel Points balances to bots, so Metal is shown as private/unavailable."
