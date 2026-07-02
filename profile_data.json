@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783008396,
+  "generated_at": 1783008425,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -634,10 +634,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-candle-wish",
-        "name": "Candle Wish Text",
-        "rarity": "rare",
-        "class_name": "text-candle-wish"
+        "id": "text-gift-box-surprise",
+        "name": "Gift Box Surprise Text",
+        "rarity": "legendary",
+        "class_name": "text-gift-box-surprise"
       },
       "loot_boxes_opened": 15,
       "recent_unlocks": [
