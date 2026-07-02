@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783006274,
+  "generated_at": 1783006282,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -634,10 +634,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-animated-rainbow",
-        "name": "Animated Rainbow Text",
+        "id": "text-portal",
+        "name": "Portal Text",
         "rarity": "legendary",
-        "class_name": "text-animated-rainbow"
+        "class_name": "text-portal"
       },
       "loot_boxes_opened": 15,
       "recent_unlocks": [
