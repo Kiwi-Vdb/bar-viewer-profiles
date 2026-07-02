@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783019970,
+  "generated_at": 1783020315,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -331,10 +331,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-rainbow-comet",
-        "name": "Rainbow Comet Text",
-        "rarity": "rare",
-        "class_name": "text-rainbow-comet"
+        "id": "text-red",
+        "name": "Red Text",
+        "rarity": "common",
+        "class_name": "text-red"
       },
       "loot_boxes_opened": 2,
       "recent_unlocks": [
