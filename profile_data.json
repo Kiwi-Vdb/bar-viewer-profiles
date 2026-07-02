@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783000264,
+  "generated_at": 1783000342,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -634,10 +634,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-glitch-sweep",
-        "name": "Glitch Sweep Text",
-        "rarity": "legendary",
-        "class_name": "text-glitch-sweep"
+        "id": "text-wavy",
+        "name": "Wavy Text",
+        "rarity": "rare",
+        "class_name": "text-wavy"
       },
       "loot_boxes_opened": 15,
       "recent_unlocks": [
