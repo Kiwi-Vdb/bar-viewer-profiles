@@ -1,13 +1,5 @@
 {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "generated_at": 1783020401,
-=======
-  "generated_at": 1783087637,
->>>>>>> Stashed changes
-=======
-  "generated_at": 1783089015,
->>>>>>> Stashed changes
+  "generated_at": 1783089066,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -194,12 +186,7 @@
           "equip_command": "!equiptext Red"
         }
       ],
-      "current_text_effect": {
-        "id": "text-red",
-        "name": "Red Text",
-        "rarity": "common",
-        "class_name": "text-red"
-      },
+      "current_text_effect": null,
       "loot_boxes_opened": 3,
       "recent_unlocks": [
         {
@@ -306,12 +293,7 @@
           "equip_command": "!equiptext Purple"
         }
       ],
-      "current_text_effect": {
-        "id": "text-purple",
-        "name": "Purple Text",
-        "rarity": "common",
-        "class_name": "text-purple"
-      },
+      "current_text_effect": null,
       "loot_boxes_opened": 1,
       "recent_unlocks": [
         {
@@ -352,46 +334,11 @@
           "rarity": "common",
           "class_name": "text-yellow",
           "equip_command": "!equiptext Yellow"
-        },
-        {
-          "id": "text-red",
-          "name": "Red Text",
-          "rarity": "common",
-          "class_name": "text-red",
-          "equip_command": "!equiptext Red"
-        },
-        {
-          "id": "text-rainbow-comet",
-          "name": "Rainbow Comet Text",
-          "rarity": "rare",
-          "class_name": "text-rainbow-comet",
-          "equip_command": "!equiptext Rainbow Comet"
         }
       ],
-      "current_text_effect": {
-        "id": "text-rainbow-comet",
-        "name": "Rainbow Comet Text",
-        "rarity": "rare",
-        "class_name": "text-rainbow-comet"
-      },
-      "loot_boxes_opened": 2,
+      "current_text_effect": null,
+      "loot_boxes_opened": 1,
       "recent_unlocks": [
-        {
-          "name": "Rainbow Comet Text",
-          "category": "Text Effect",
-          "rarity": "rare",
-          "type": "text_effect",
-          "text_effect": "text-rainbow-comet",
-          "timestamp": 1783019283
-        },
-        {
-          "name": "Red Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-red",
-          "timestamp": 1783018268
-        },
         {
           "name": "Yellow Text",
           "category": "Text Effect",
@@ -404,17 +351,9 @@
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "text_effects_unlocked": 3,
-=======
         "text_effects_unlocked": 1,
->>>>>>> Stashed changes
-=======
-        "text_effects_unlocked": 1,
->>>>>>> Stashed changes
         "text_effects_available": 20,
-        "recent_unlocks": 3
+        "recent_unlocks": 1
       }
     },
     "iamdibi": {
@@ -737,10 +676,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-black-hole",
-        "name": "Black Hole Text",
-        "rarity": "legendary",
-        "class_name": "text-black-hole"
+        "id": "text-wavy",
+        "name": "Wavy Text",
+        "rarity": "rare",
+        "class_name": "text-wavy"
       },
       "loot_boxes_opened": 15,
       "recent_unlocks": [
