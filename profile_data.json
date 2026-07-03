@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783112506,
+  "generated_at": 1783112582,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -625,6 +625,12 @@
           "rarity": "legendary"
         },
         {
+          "id": "emote:scav fog",
+          "name": "Scav Fog",
+          "category": "Emote",
+          "rarity": "legendary"
+        },
+        {
           "id": "emote:sun beam",
           "name": "Sun Beam",
           "category": "Emote",
@@ -779,8 +785,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 27,
+      "loot_boxes_opened": 28,
       "recent_unlocks": [
+        {
+          "name": "Scav Fog",
+          "category": "Emote",
+          "rarity": "legendary",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783112576
+        },
         {
           "name": "Cow",
           "category": "Pets",
@@ -796,18 +810,10 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783109258
-        },
-        {
-          "name": "Quiz Hat",
-          "category": "Emote",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783109244
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 22,
+        "cosmetics_unlocked": 23,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
