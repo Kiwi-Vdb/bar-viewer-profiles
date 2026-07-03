@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": 1783091552,
-=======
-  "generated_at": 1783092681,
->>>>>>> Stashed changes
+  "generated_at": 1783092705,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -467,11 +463,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-<<<<<<< Updated upstream
-        "balance": 199800,
-=======
         "balance": 0,
->>>>>>> Stashed changes
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -535,14 +527,14 @@
           "rarity": "common"
         },
         {
-          "id": "back:angel wings",
-          "name": "Angel Wings",
-          "category": "Back",
+          "id": "hat:santa beard",
+          "name": "Santa Beard",
+          "category": "Hat",
           "rarity": "rare"
         },
         {
-          "id": "back:deadeye wings",
-          "name": "Deadeye Wings",
+          "id": "back:angel wings",
+          "name": "Angel Wings",
           "category": "Back",
           "rarity": "rare"
         }
@@ -698,12 +690,12 @@
       "loot_boxes_opened": 16,
       "recent_unlocks": [
         {
-          "name": "Deadeye Wings",
-          "category": "Back",
+          "name": "Santa Beard",
+          "category": "Hat",
           "rarity": "rare",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1783089744
+          "timestamp": 1783092699
         },
         {
           "name": "Wavy Text",
