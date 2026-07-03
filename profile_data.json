@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783109222,
+  "generated_at": 1783109258,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -155,7 +155,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 7344,
+        "balance": 6844,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -571,6 +571,12 @@
           "rarity": "rare"
         },
         {
+          "id": "emote:quiz hat",
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare"
+        },
+        {
           "id": "back:angel wings",
           "name": "Angel Wings",
           "category": "Back",
@@ -761,8 +767,24 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 24,
+      "loot_boxes_opened": 26,
       "recent_unlocks": [
+        {
+          "name": "Sultans Hat",
+          "category": "Hat",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783109258
+        },
+        {
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783109244
+        },
         {
           "name": "Blood Wings",
           "category": "Back",
@@ -770,30 +792,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783109216
-        },
-        {
-          "name": "Deadeye Wings",
-          "category": "Back",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783109109
-        },
-        {
-          "name": "Pumpkin",
-          "category": "Hat",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783109084
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 19,
+        "cosmetics_unlocked": 20,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 19
+        "recent_unlocks": 20
       }
     },
     "kotaotake": {
