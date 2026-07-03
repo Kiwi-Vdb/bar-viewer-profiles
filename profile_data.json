@@ -1,8 +1,12 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "generated_at": 1783020401,
 =======
   "generated_at": 1783087637,
+>>>>>>> Stashed changes
+=======
+  "generated_at": 1783089015,
 >>>>>>> Stashed changes
   "viewers": {
     "axolotl_eu": {
@@ -401,7 +405,11 @@
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "text_effects_unlocked": 3,
+=======
+        "text_effects_unlocked": 1,
+>>>>>>> Stashed changes
 =======
         "text_effects_unlocked": 1,
 >>>>>>> Stashed changes
