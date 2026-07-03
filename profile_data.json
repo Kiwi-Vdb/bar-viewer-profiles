@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783109109,
+  "generated_at": 1783109130,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -155,7 +155,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 8344,
+        "balance": 7844,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -583,6 +583,12 @@
           "rarity": "rare"
         },
         {
+          "id": "back:deadeye wings",
+          "name": "Deadeye Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
           "id": "back:monarch wings",
           "name": "Monarch Wings",
           "category": "Back",
@@ -777,7 +783,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 17,
+        "cosmetics_unlocked": 18,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
