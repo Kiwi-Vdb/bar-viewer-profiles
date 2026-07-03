@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783109178,
+  "generated_at": 1783109222,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -583,6 +583,12 @@
           "rarity": "rare"
         },
         {
+          "id": "back:blood wings",
+          "name": "Blood Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
           "id": "back:deadeye wings",
           "name": "Deadeye Wings",
           "category": "Back",
@@ -755,8 +761,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 23,
+      "loot_boxes_opened": 24,
       "recent_unlocks": [
+        {
+          "name": "Blood Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783109216
+        },
         {
           "name": "Deadeye Wings",
           "category": "Back",
@@ -772,22 +786,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783109084
-        },
-        {
-          "name": "Sun Beam",
-          "category": "Emote",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783108933
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 18,
+        "cosmetics_unlocked": 19,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 18
+        "recent_unlocks": 19
       }
     },
     "kotaotake": {
