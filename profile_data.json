@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783112662,
+  "generated_at": 1783112706,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -791,16 +791,8 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 30,
+      "loot_boxes_opened": 31,
       "recent_unlocks": [
-        {
-          "name": "Deinosuchus",
-          "category": "Pets",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783112611
-        },
         {
           "name": "Scav Fog",
           "category": "Emote",
@@ -816,6 +808,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783112499
+        },
+        {
+          "name": "Sultans Hat",
+          "category": "Hat",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783109258
         }
       ],
       "totals": {
@@ -823,7 +823,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 20
+        "recent_unlocks": 19
       }
     },
     "kotaotake": {
