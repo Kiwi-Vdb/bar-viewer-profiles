@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": 1783089066,
-=======
-  "generated_at": 1783089730,
->>>>>>> Stashed changes
+  "generated_at": 1783089750,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -535,6 +531,12 @@
           "name": "Angel Wings",
           "category": "Back",
           "rarity": "rare"
+        },
+        {
+          "id": "back:deadeye wings",
+          "name": "Deadeye Wings",
+          "category": "Back",
+          "rarity": "rare"
         }
       ],
       "text_effects_unlocked": [
@@ -685,8 +687,16 @@
         "rarity": "rare",
         "class_name": "text-wavy"
       },
-      "loot_boxes_opened": 15,
+      "loot_boxes_opened": 16,
       "recent_unlocks": [
+        {
+          "name": "Deadeye Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783089744
+        },
         {
           "name": "Wavy Text",
           "category": "Text Effect",
@@ -702,22 +712,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782840351
-        },
-        {
-          "name": "Ranger Cap",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782739087
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 10,
+        "cosmetics_unlocked": 11,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 10
+        "recent_unlocks": 11
       }
     },
     "kotaotake": {
