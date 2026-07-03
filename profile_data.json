@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783114787,
+  "generated_at": 1783114802,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -734,6 +734,13 @@
           "rarity": "rare",
           "class_name": "text-candle-wish",
           "equip_command": "!equiptext Candle Wish"
+        },
+        {
+          "id": "text-rainbow-comet",
+          "name": "Rainbow Comet Text",
+          "rarity": "rare",
+          "class_name": "text-rainbow-comet",
+          "equip_command": "!equiptext Rainbow Comet"
         }
       ],
       "current_text_effect": {
@@ -742,8 +749,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 32,
+      "loot_boxes_opened": 33,
       "recent_unlocks": [
+        {
+          "name": "Rainbow Comet Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-rainbow-comet",
+          "timestamp": 1783114796
+        },
         {
           "name": "Candle Wish Text",
           "category": "Text Effect",
@@ -759,20 +774,12 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783112611
-        },
-        {
-          "name": "Scav Fog",
-          "category": "Emote",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783112576
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 13,
+        "text_effects_unlocked": 14,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
