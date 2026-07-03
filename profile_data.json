@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783108660,
+  "generated_at": 1783108728,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -725,8 +725,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 18,
+      "loot_boxes_opened": 19,
       "recent_unlocks": [
+        {
+          "name": "Batty",
+          "category": "Pets",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783108728
+        },
         {
           "name": "Fire Aura",
           "category": "Emote",
@@ -742,14 +750,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783108561
-        },
-        {
-          "name": "Santa Beard",
-          "category": "Hat",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783092699
         }
       ],
       "totals": {
@@ -757,7 +757,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 13
+        "recent_unlocks": 14
       }
     },
     "kotaotake": {
