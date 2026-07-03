@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783111706,
+  "generated_at": 1783112499,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -773,8 +773,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 26,
+      "loot_boxes_opened": 27,
       "recent_unlocks": [
+        {
+          "name": "Cow",
+          "category": "Pets",
+          "rarity": "legendary",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783112499
+        },
         {
           "name": "Sultans Hat",
           "category": "Hat",
@@ -790,14 +798,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783109244
-        },
-        {
-          "name": "Blood Wings",
-          "category": "Back",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783109216
         }
       ],
       "totals": {
