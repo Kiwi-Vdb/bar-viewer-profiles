@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783107270,
+  "generated_at": 1783107373,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -682,10 +682,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-wavy",
-        "name": "Wavy Text",
-        "rarity": "rare",
-        "class_name": "text-wavy"
+        "id": "text-black-hole",
+        "name": "Black Hole Text",
+        "rarity": "legendary",
+        "class_name": "text-black-hole"
       },
       "loot_boxes_opened": 16,
       "recent_unlocks": [
