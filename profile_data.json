@@ -1,12 +1,22 @@
 {
+<<<<<<< Updated upstream
   "generated_at": 1783020401,
+=======
+  "generated_at": 1783087637,
+>>>>>>> Stashed changes
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [
         {
@@ -146,10 +156,16 @@
     },
     "betterstrategy": {
       "username": "betterstrategy",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [
         {
@@ -217,10 +233,16 @@
     },
     "dme_wraxell": {
       "username": "dme_wraxell",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [],
       "text_effects_unlocked": [
@@ -259,10 +281,16 @@
     },
     "grazzabee": {
       "username": "grazzabee",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [],
       "text_effects_unlocked": [
@@ -301,10 +329,16 @@
     },
     "hunbleeone": {
       "username": "hunbleeone",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [],
       "text_effects_unlocked": [
@@ -366,17 +400,27 @@
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
+<<<<<<< Updated upstream
         "text_effects_unlocked": 3,
+=======
+        "text_effects_unlocked": 1,
+>>>>>>> Stashed changes
         "text_effects_available": 20,
         "recent_unlocks": 3
       }
     },
     "iamdibi": {
       "username": "iamdibi",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [
         {
@@ -469,10 +513,16 @@
     },
     "itsvdb": {
       "username": "itsvdb",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [
         {
@@ -721,10 +771,16 @@
     },
     "kotaotake": {
       "username": "kotaotake",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [
         {
@@ -757,10 +813,16 @@
     },
     "oafsalot": {
       "username": "oafsalot",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [
         {
@@ -793,10 +855,16 @@
     },
     "sharpishdog": {
       "username": "sharpishdog",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
       "metal": {
         "available": false,
         "label": "Metal",
-        "message": "Twitch does not expose viewer Channel Points balances to bots."
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [
         {
@@ -1149,6 +1217,7 @@
     "text_effects_total": 20
   },
   "notes": {
-    "metal": "Twitch does not expose viewer Channel Points balances to bots, so Metal is shown as private/unavailable."
+    "shinies": "Shinies are the Kiwi Birb-owned channel currency used for gifting, predictions, and gamba.",
+    "metal": "Metal has been replaced by Shinies."
   }
 }
