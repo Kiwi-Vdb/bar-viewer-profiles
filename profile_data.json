@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783112499,
+  "generated_at": 1783112506,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -613,6 +613,12 @@
           "rarity": "rare"
         },
         {
+          "id": "pets:cow",
+          "name": "Cow",
+          "category": "Pets",
+          "rarity": "legendary"
+        },
+        {
           "id": "emote:fire aura",
           "name": "Fire Aura",
           "category": "Emote",
@@ -801,7 +807,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 21,
+        "cosmetics_unlocked": 22,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
