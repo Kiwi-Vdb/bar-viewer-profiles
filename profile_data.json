@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783114212,
+  "generated_at": 1783114259,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -727,62 +727,6 @@
           "rarity": "rare",
           "class_name": "text-wavy",
           "equip_command": "!equiptext Wavy"
-        },
-        {
-          "id": "text-animated-rainbow",
-          "name": "Animated Rainbow Text",
-          "rarity": "legendary",
-          "class_name": "text-animated-rainbow",
-          "equip_command": "!equiptext Animated Rainbow"
-        },
-        {
-          "id": "text-gold-sparkle",
-          "name": "Gold Sparkle Text",
-          "rarity": "legendary",
-          "class_name": "text-gold-sparkle",
-          "equip_command": "!equiptext Gold Sparkle"
-        },
-        {
-          "id": "text-glitch-sweep",
-          "name": "Glitch Sweep Text",
-          "rarity": "legendary",
-          "class_name": "text-glitch-sweep",
-          "equip_command": "!equiptext Glitch Sweep"
-        },
-        {
-          "id": "text-candle-wish",
-          "name": "Candle Wish Text",
-          "rarity": "rare",
-          "class_name": "text-candle-wish",
-          "equip_command": "!equiptext Candle Wish"
-        },
-        {
-          "id": "text-rainbow-comet",
-          "name": "Rainbow Comet Text",
-          "rarity": "rare",
-          "class_name": "text-rainbow-comet",
-          "equip_command": "!equiptext Rainbow Comet"
-        },
-        {
-          "id": "text-black-hole",
-          "name": "Black Hole Text",
-          "rarity": "legendary",
-          "class_name": "text-black-hole",
-          "equip_command": "!equiptext Black Hole"
-        },
-        {
-          "id": "text-portal",
-          "name": "Portal Text",
-          "rarity": "legendary",
-          "class_name": "text-portal",
-          "equip_command": "!equiptext Portal"
-        },
-        {
-          "id": "text-gift-box-surprise",
-          "name": "Gift Box Surprise Text",
-          "rarity": "legendary",
-          "class_name": "text-gift-box-surprise",
-          "equip_command": "!equiptext Gift Box Surprise"
         }
       ],
       "current_text_effect": {
@@ -791,8 +735,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 31,
+      "loot_boxes_opened": 32,
       "recent_unlocks": [
+        {
+          "name": "Candle Wish Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-candle-wish",
+          "timestamp": 1783114259
+        },
         {
           "name": "Deinosuchus",
           "category": "Pets",
@@ -808,20 +760,12 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783112576
-        },
-        {
-          "name": "Cow",
-          "category": "Pets",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783112499
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 20,
+        "text_effects_unlocked": 12,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
