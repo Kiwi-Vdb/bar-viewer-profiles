@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783114259,
+  "generated_at": 1783114787,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -727,6 +727,13 @@
           "rarity": "rare",
           "class_name": "text-wavy",
           "equip_command": "!equiptext Wavy"
+        },
+        {
+          "id": "text-candle-wish",
+          "name": "Candle Wish Text",
+          "rarity": "rare",
+          "class_name": "text-candle-wish",
+          "equip_command": "!equiptext Candle Wish"
         }
       ],
       "current_text_effect": {
@@ -765,7 +772,7 @@
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 12,
+        "text_effects_unlocked": 13,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
