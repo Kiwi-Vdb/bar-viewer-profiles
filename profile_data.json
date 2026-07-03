@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783108728,
+  "generated_at": 1783108748,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -559,6 +559,12 @@
           "rarity": "rare"
         },
         {
+          "id": "pets:batty",
+          "name": "Batty",
+          "category": "Pets",
+          "rarity": "rare"
+        },
+        {
           "id": "back:angel wings",
           "name": "Angel Wings",
           "category": "Back",
@@ -567,6 +573,12 @@
         {
           "id": "back:ash wings",
           "name": "Ash Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:monarch wings",
+          "name": "Monarch Wings",
           "category": "Back",
           "rarity": "rare"
         },
@@ -725,8 +737,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 19,
+      "loot_boxes_opened": 20,
       "recent_unlocks": [
+        {
+          "name": "Monarch Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783108742
+        },
         {
           "name": "Batty",
           "category": "Pets",
@@ -742,22 +762,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783108578
-        },
-        {
-          "name": "Ash Wings",
-          "category": "Back",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783108561
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 13,
+        "cosmetics_unlocked": 15,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 14
+        "recent_unlocks": 15
       }
     },
     "kotaotake": {
