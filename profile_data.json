@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783108896,
+  "generated_at": 1783108933,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -737,8 +737,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 20,
+      "loot_boxes_opened": 21,
       "recent_unlocks": [
+        {
+          "name": "Sun Beam",
+          "category": "Emote",
+          "rarity": "legendary",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783108933
+        },
         {
           "name": "Monarch Wings",
           "category": "Back",
@@ -754,14 +762,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783108728
-        },
-        {
-          "name": "Fire Aura",
-          "category": "Emote",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783108578
         }
       ],
       "totals": {
@@ -769,7 +769,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 15
+        "recent_unlocks": 16
       }
     },
     "kotaotake": {
