@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783109084,
+  "generated_at": 1783109109,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -559,6 +559,12 @@
           "rarity": "rare"
         },
         {
+          "id": "hat:pumpkin",
+          "name": "Pumpkin",
+          "category": "Hat",
+          "rarity": "rare"
+        },
+        {
           "id": "pets:batty",
           "name": "Batty",
           "category": "Pets",
@@ -743,8 +749,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 22,
+      "loot_boxes_opened": 23,
       "recent_unlocks": [
+        {
+          "name": "Deadeye Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783109109
+        },
         {
           "name": "Pumpkin",
           "category": "Hat",
@@ -760,22 +774,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783108933
-        },
-        {
-          "name": "Monarch Wings",
-          "category": "Back",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783108742
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 16,
+        "cosmetics_unlocked": 17,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 17
+        "recent_unlocks": 18
       }
     },
     "kotaotake": {
