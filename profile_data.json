@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783108933,
+  "generated_at": 1783108939,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -587,6 +587,12 @@
           "name": "Fire Aura",
           "category": "Emote",
           "rarity": "legendary"
+        },
+        {
+          "id": "emote:sun beam",
+          "name": "Sun Beam",
+          "category": "Emote",
+          "rarity": "legendary"
         }
       ],
       "text_effects_unlocked": [
@@ -765,7 +771,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 15,
+        "cosmetics_unlocked": 16,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
