@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783200839,
+  "generated_at": 1783200916,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -192,8 +192,16 @@
         "rarity": "rare",
         "class_name": "text-sparkle"
       },
-      "loot_boxes_opened": 3,
+      "loot_boxes_opened": 4,
       "recent_unlocks": [
+        {
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783200916
+        },
         {
           "name": "Ranger Cap",
           "category": "Hat",
@@ -209,14 +217,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783200793
-        },
-        {
-          "name": "Sparkle Text",
-          "category": "Text Effect",
-          "rarity": "rare",
-          "type": "text_effect",
-          "text_effect": "text-sparkle",
-          "timestamp": 1783200778
         }
       ],
       "totals": {
@@ -224,7 +224,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 3
+        "recent_unlocks": 4
       }
     },
     "betterstrategy": {
