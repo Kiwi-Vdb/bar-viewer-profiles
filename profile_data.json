@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783200741,
+  "generated_at": 1783200784,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -164,16 +164,33 @@
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-sparkle",
+          "name": "Sparkle Text",
+          "rarity": "rare",
+          "class_name": "text-sparkle",
+          "equip_command": "!equiptext Sparkle"
+        }
+      ],
       "current_text_effect": null,
-      "loot_boxes_opened": 0,
-      "recent_unlocks": [],
+      "loot_boxes_opened": 1,
+      "recent_unlocks": [
+        {
+          "name": "Sparkle Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-sparkle",
+          "timestamp": 1783200778
+        }
+      ],
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 0
+        "recent_unlocks": 1
       }
     },
     "betterstrategy": {
@@ -213,8 +230,16 @@
         }
       ],
       "current_text_effect": null,
-      "loot_boxes_opened": 3,
+      "loot_boxes_opened": 4,
       "recent_unlocks": [
+        {
+          "name": "Pumpkin",
+          "category": "Hat",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783200784
+        },
         {
           "name": "Ranger Cap",
           "category": "Hat",
@@ -230,14 +255,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782746158
-        },
-        {
-          "name": "Red Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-red",
-          "timestamp": 1782746133
         }
       ],
       "totals": {
@@ -245,7 +262,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 3
+        "recent_unlocks": 4
       }
     },
     "blzbrg": {
@@ -321,10 +338,31 @@
           "rarity": "common"
         }
       ],
-      "text_effects_unlocked": [],
-      "current_text_effect": null,
-      "loot_boxes_opened": 1,
+      "text_effects_unlocked": [
+        {
+          "id": "text-pink",
+          "name": "Pink Text",
+          "rarity": "common",
+          "class_name": "text-pink",
+          "equip_command": "!equiptext Pink"
+        }
+      ],
+      "current_text_effect": {
+        "id": "text-pink",
+        "name": "Pink Text",
+        "rarity": "common",
+        "class_name": "text-pink"
+      },
+      "loot_boxes_opened": 2,
       "recent_unlocks": [
+        {
+          "name": "Pink Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-pink",
+          "timestamp": 1783200763
+        },
         {
           "name": "Sword",
           "category": "Hand",
@@ -337,9 +375,9 @@
       "totals": {
         "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 1
+        "recent_unlocks": 2
       }
     },
     "degent67": {
