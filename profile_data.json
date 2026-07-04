@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783200916,
+  "generated_at": 1783200945,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -171,8 +171,26 @@
           "rarity": "common"
         },
         {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:party hat angle",
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "hat:ranger cap",
           "name": "Ranger Cap",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:witch hat",
+          "name": "Witch Hat",
           "category": "Hat",
           "rarity": "common"
         }
@@ -192,8 +210,24 @@
         "rarity": "rare",
         "class_name": "text-sparkle"
       },
-      "loot_boxes_opened": 4,
+      "loot_boxes_opened": 6,
       "recent_unlocks": [
+        {
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783200939
+        },
+        {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783200928
+        },
         {
           "name": "Party Hat Angle",
           "category": "Hat",
@@ -201,30 +235,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783200916
-        },
-        {
-          "name": "Ranger Cap",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783200807
-        },
-        {
-          "name": "Apprentice Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783200793
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 2,
+        "cosmetics_unlocked": 5,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 4
+        "recent_unlocks": 6
       }
     },
     "betterstrategy": {
