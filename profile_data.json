@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783200945,
+  "generated_at": 1783200955,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -165,6 +165,12 @@
       },
       "cosmetics_unlocked": [
         {
+          "id": "hand:poesidon staff",
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common"
+        },
+        {
           "id": "hat:apprentice hat",
           "name": "Apprentice Hat",
           "category": "Hat",
@@ -210,8 +216,16 @@
         "rarity": "rare",
         "class_name": "text-sparkle"
       },
-      "loot_boxes_opened": 6,
+      "loot_boxes_opened": 7,
       "recent_unlocks": [
+        {
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783200949
+        },
         {
           "name": "Witch Hat",
           "category": "Hat",
@@ -227,22 +241,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783200928
-        },
-        {
-          "name": "Party Hat Angle",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783200916
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 5,
+        "cosmetics_unlocked": 6,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 6
+        "recent_unlocks": 7
       }
     },
     "betterstrategy": {
