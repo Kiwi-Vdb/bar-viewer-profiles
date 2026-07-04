@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783201056,
+  "generated_at": 1783201083,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -1338,6 +1338,13 @@
           "rarity": "common",
           "class_name": "text-green",
           "equip_command": "!equiptext Green"
+        },
+        {
+          "id": "text-blue",
+          "name": "Blue Text",
+          "rarity": "common",
+          "class_name": "text-blue",
+          "equip_command": "!equiptext Blue"
         }
       ],
       "current_text_effect": {
@@ -1346,8 +1353,16 @@
         "rarity": "common",
         "class_name": "text-purple"
       },
-      "loot_boxes_opened": 6,
+      "loot_boxes_opened": 7,
       "recent_unlocks": [
+        {
+          "name": "Blue Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-blue",
+          "timestamp": 1783201077
+        },
         {
           "name": "Sword",
           "category": "Hand",
@@ -1363,22 +1378,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782834813
-        },
-        {
-          "name": "Green Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-green",
-          "timestamp": 1782834796
         }
       ],
       "totals": {
         "cosmetics_unlocked": 4,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 2,
+        "text_effects_unlocked": 3,
         "text_effects_available": 20,
-        "recent_unlocks": 6
+        "recent_unlocks": 7
       }
     },
     "stuart_williamson": {
