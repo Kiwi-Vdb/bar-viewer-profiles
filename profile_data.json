@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783200640,
+  "generated_at": 1783200695,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -949,16 +949,31 @@
           "rarity": "legendary",
           "class_name": "text-glitch-sweep",
           "equip_command": "!equiptext Glitch Sweep"
+        },
+        {
+          "id": "text-animated-rainbow",
+          "name": "Animated Rainbow Text",
+          "rarity": "legendary",
+          "class_name": "text-animated-rainbow",
+          "equip_command": "!equiptext Animated Rainbow"
         }
       ],
       "current_text_effect": {
-        "id": "text-glitch-sweep",
-        "name": "Glitch Sweep Text",
+        "id": "text-portal",
+        "name": "Portal Text",
         "rarity": "legendary",
-        "class_name": "text-glitch-sweep"
+        "class_name": "text-portal"
       },
-      "loot_boxes_opened": 38,
+      "loot_boxes_opened": 39,
       "recent_unlocks": [
+        {
+          "name": "Animated Rainbow Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-animated-rainbow",
+          "timestamp": 1783200673
+        },
         {
           "name": "Glitch Sweep Text",
           "category": "Text Effect",
@@ -974,20 +989,12 @@
           "type": "text_effect",
           "text_effect": "text-black-hole",
           "timestamp": 1783182654
-        },
-        {
-          "name": "Gold Sparkle Text",
-          "category": "Text Effect",
-          "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-gold-sparkle",
-          "timestamp": 1783175287
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 19,
+        "text_effects_unlocked": 20,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
@@ -1175,7 +1182,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 8600,
+        "balance": 8595,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
