@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783200813,
+  "generated_at": 1783200839,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -186,7 +186,12 @@
           "equip_command": "!equiptext Sparkle"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-sparkle",
+        "name": "Sparkle Text",
+        "rarity": "rare",
+        "class_name": "text-sparkle"
+      },
       "loot_boxes_opened": 3,
       "recent_unlocks": [
         {
