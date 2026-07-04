@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783175170,
+  "generated_at": 1783175224,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -748,6 +748,13 @@
           "rarity": "legendary",
           "class_name": "text-portal",
           "equip_command": "!equiptext Portal"
+        },
+        {
+          "id": "text-gift-box-surprise",
+          "name": "Gift Box Surprise Text",
+          "rarity": "legendary",
+          "class_name": "text-gift-box-surprise",
+          "equip_command": "!equiptext Gift Box Surprise"
         }
       ],
       "current_text_effect": {
@@ -756,8 +763,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 34,
+      "loot_boxes_opened": 35,
       "recent_unlocks": [
+        {
+          "name": "Gift Box Surprise Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-gift-box-surprise",
+          "timestamp": 1783175218
+        },
         {
           "name": "Portal Text",
           "category": "Text Effect",
@@ -773,20 +788,12 @@
           "type": "text_effect",
           "text_effect": "text-rainbow-comet",
           "timestamp": 1783114796
-        },
-        {
-          "name": "Candle Wish Text",
-          "category": "Text Effect",
-          "rarity": "rare",
-          "type": "text_effect",
-          "text_effect": "text-candle-wish",
-          "timestamp": 1783114259
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 15,
+        "text_effects_unlocked": 16,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
