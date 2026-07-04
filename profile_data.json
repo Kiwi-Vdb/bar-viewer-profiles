@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783182625,
+  "generated_at": 1783182654,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -796,8 +796,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 36,
+      "loot_boxes_opened": 37,
       "recent_unlocks": [
+        {
+          "name": "Black Hole Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-black-hole",
+          "timestamp": 1783182654
+        },
         {
           "name": "Gold Sparkle Text",
           "category": "Text Effect",
@@ -813,14 +821,6 @@
           "type": "text_effect",
           "text_effect": "text-gift-box-surprise",
           "timestamp": 1783175218
-        },
-        {
-          "name": "Portal Text",
-          "category": "Text Effect",
-          "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-portal",
-          "timestamp": 1783114820
         }
       ],
       "totals": {
@@ -920,7 +920,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 10000,
+        "balance": 8800,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
