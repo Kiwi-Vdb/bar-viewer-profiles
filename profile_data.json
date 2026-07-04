@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783200955,
+  "generated_at": 1783200999,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -199,6 +199,12 @@
           "name": "Witch Hat",
           "category": "Hat",
           "rarity": "common"
+        },
+        {
+          "id": "pets:batty",
+          "name": "Batty",
+          "category": "Pets",
+          "rarity": "rare"
         }
       ],
       "text_effects_unlocked": [
@@ -216,8 +222,16 @@
         "rarity": "rare",
         "class_name": "text-sparkle"
       },
-      "loot_boxes_opened": 7,
+      "loot_boxes_opened": 8,
       "recent_unlocks": [
+        {
+          "name": "Batty",
+          "category": "Pets",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783200993
+        },
         {
           "name": "Poesidon Staff",
           "category": "Hand",
@@ -233,22 +247,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783200939
-        },
-        {
-          "name": "Bday Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783200928
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 6,
+        "cosmetics_unlocked": 7,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 7
+        "recent_unlocks": 8
       }
     },
     "betterstrategy": {
