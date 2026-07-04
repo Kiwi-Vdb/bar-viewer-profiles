@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783188868,
+  "generated_at": 1783188891,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -807,13 +807,20 @@
           "rarity": "legendary",
           "class_name": "text-black-hole",
           "equip_command": "!equiptext Black Hole"
+        },
+        {
+          "id": "text-glitch-sweep",
+          "name": "Glitch Sweep Text",
+          "rarity": "legendary",
+          "class_name": "text-glitch-sweep",
+          "equip_command": "!equiptext Glitch Sweep"
         }
       ],
       "current_text_effect": {
-        "id": "text-black-hole",
-        "name": "Black Hole Text",
+        "id": "text-glitch-sweep",
+        "name": "Glitch Sweep Text",
         "rarity": "legendary",
-        "class_name": "text-black-hole"
+        "class_name": "text-glitch-sweep"
       },
       "loot_boxes_opened": 38,
       "recent_unlocks": [
@@ -845,7 +852,7 @@
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 18,
+        "text_effects_unlocked": 19,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
