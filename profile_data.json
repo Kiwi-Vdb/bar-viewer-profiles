@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783182660,
+  "generated_at": 1783182852,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -381,6 +381,13 @@
       "cosmetics_unlocked": [],
       "text_effects_unlocked": [
         {
+          "id": "text-rainbow-comet",
+          "name": "Rainbow Comet Text",
+          "rarity": "rare",
+          "class_name": "text-rainbow-comet",
+          "equip_command": "!equiptext Rainbow Comet"
+        },
+        {
           "id": "text-yellow",
           "name": "Yellow Text",
           "rarity": "common",
@@ -388,7 +395,12 @@
           "equip_command": "!equiptext Yellow"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-rainbow-comet",
+        "name": "Rainbow Comet Text",
+        "rarity": "rare",
+        "class_name": "text-rainbow-comet"
+      },
       "loot_boxes_opened": 1,
       "recent_unlocks": [
         {
@@ -403,7 +415,7 @@
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 1,
+        "text_effects_unlocked": 2,
         "text_effects_available": 20,
         "recent_unlocks": 1
       }
