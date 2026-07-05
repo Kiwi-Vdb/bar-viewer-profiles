@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": 1783258499,
-=======
-  "generated_at": 1783259194,
->>>>>>> Stashed changes
+  "generated_at": 1783259223,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -493,7 +489,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 170100,
+        "balance": 168100,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
