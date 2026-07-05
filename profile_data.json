@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   "generated_at": 1783259517,
+=======
+  "generated_at": 1783260147,
+>>>>>>> Stashed changes
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -748,6 +752,7 @@
           "rarity": "legendary",
           "class_name": "text-portal",
           "equip_command": "!equiptext Portal"
+<<<<<<< Updated upstream
         },
         {
           "id": "text-animated-rainbow",
@@ -762,6 +767,8 @@
           "rarity": "legendary",
           "class_name": "text-gift-box-surprise",
           "equip_command": "!equiptext Gift Box Surprise"
+=======
+>>>>>>> Stashed changes
         }
       ],
       "current_text_effect": {
@@ -770,6 +777,7 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
+<<<<<<< Updated upstream
       "loot_boxes_opened": 36,
       "recent_unlocks": [
         {
@@ -795,12 +803,43 @@
           "type": "text_effect",
           "text_effect": "text-portal",
           "timestamp": 1783114820
+=======
+      "loot_boxes_opened": 34,
+      "recent_unlocks": [
+        {
+          "name": "Portal Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-portal",
+          "timestamp": 1783114820
+        },
+        {
+          "name": "Rainbow Comet Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-rainbow-comet",
+          "timestamp": 1783114796
+        },
+        {
+          "name": "Candle Wish Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-candle-wish",
+          "timestamp": 1783114259
+>>>>>>> Stashed changes
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
+<<<<<<< Updated upstream
         "text_effects_unlocked": 17,
+=======
+        "text_effects_unlocked": 15,
+>>>>>>> Stashed changes
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
