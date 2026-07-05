@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783246662,
+  "generated_at": 1783246694,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -505,10 +505,22 @@
           "rarity": "common"
         },
         {
+          "id": "hat:apprentice hat",
+          "name": "Apprentice Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "hat:party hat angle",
           "name": "Party Hat Angle",
           "category": "Hat",
           "rarity": "common"
+        },
+        {
+          "id": "back:ash wings",
+          "name": "Ash Wings",
+          "category": "Back",
+          "rarity": "rare"
         },
         {
           "id": "pets:deinosuchus",
@@ -665,8 +677,24 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 43,
+      "loot_boxes_opened": 45,
       "recent_unlocks": [
+        {
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783246694
+        },
+        {
+          "name": "Apprentice Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783246680
+        },
         {
           "name": "Ash Wings",
           "category": "Back",
@@ -674,30 +702,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783246662
-        },
-        {
-          "name": "Deinosuchus",
-          "category": "Pets",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783246637
-        },
-        {
-          "name": "Sword",
-          "category": "Hand",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783246596
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 3,
+        "cosmetics_unlocked": 5,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 14
+        "recent_unlocks": 16
       }
     },
     "kotaotake": {
