@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783259371,
+  "generated_at": 1783259466,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -756,8 +756,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 34,
+      "loot_boxes_opened": 35,
       "recent_unlocks": [
+        {
+          "name": "Animated Rainbow Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-animated-rainbow",
+          "timestamp": 1783259466
+        },
         {
           "name": "Portal Text",
           "category": "Text Effect",
@@ -773,14 +781,6 @@
           "type": "text_effect",
           "text_effect": "text-rainbow-comet",
           "timestamp": 1783114796
-        },
-        {
-          "name": "Candle Wish Text",
-          "category": "Text Effect",
-          "rarity": "rare",
-          "type": "text_effect",
-          "text_effect": "text-candle-wish",
-          "timestamp": 1783114259
         }
       ],
       "totals": {
