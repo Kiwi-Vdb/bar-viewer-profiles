@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783246602,
+  "generated_at": 1783246637,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -659,8 +659,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 41,
+      "loot_boxes_opened": 42,
       "recent_unlocks": [
+        {
+          "name": "Deinosuchus",
+          "category": "Pets",
+          "rarity": "legendary",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783246637
+        },
         {
           "name": "Sword",
           "category": "Hand",
@@ -676,14 +684,6 @@
           "type": "text_effect",
           "text_effect": "text-glitch-sweep",
           "timestamp": 1783246501
-        },
-        {
-          "name": "Cow",
-          "category": "Pets",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783112499
         }
       ],
       "totals": {
@@ -691,7 +691,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 12
+        "recent_unlocks": 13
       }
     },
     "kotaotake": {
