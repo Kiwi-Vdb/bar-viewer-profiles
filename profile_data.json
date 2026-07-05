@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783246205,
+  "generated_at": 1783246461,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -777,8 +777,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 37,
+      "loot_boxes_opened": 38,
       "recent_unlocks": [
+        {
+          "name": "Animated Rainbow Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-animated-rainbow",
+          "timestamp": 1783246461
+        },
         {
           "name": "Black Hole Text",
           "category": "Text Effect",
@@ -794,14 +802,6 @@
           "type": "text_effect",
           "text_effect": "text-gold-sparkle",
           "timestamp": 1783246181
-        },
-        {
-          "name": "Gift Box Surprise Text",
-          "category": "Text Effect",
-          "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-gift-box-surprise",
-          "timestamp": 1783245996
         }
       ],
       "totals": {
