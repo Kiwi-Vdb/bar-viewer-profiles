@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783246637,
+  "generated_at": 1783246662,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -509,6 +509,12 @@
           "name": "Party Hat Angle",
           "category": "Hat",
           "rarity": "common"
+        },
+        {
+          "id": "pets:deinosuchus",
+          "name": "Deinosuchus",
+          "category": "Pets",
+          "rarity": "legendary"
         }
       ],
       "text_effects_unlocked": [
@@ -659,8 +665,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 42,
+      "loot_boxes_opened": 43,
       "recent_unlocks": [
+        {
+          "name": "Ash Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783246662
+        },
         {
           "name": "Deinosuchus",
           "category": "Pets",
@@ -676,22 +690,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783246596
-        },
-        {
-          "name": "Glitch Sweep Text",
-          "category": "Text Effect",
-          "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-glitch-sweep",
-          "timestamp": 1783246501
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 2,
+        "cosmetics_unlocked": 3,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 13
+        "recent_unlocks": 14
       }
     },
     "kotaotake": {
