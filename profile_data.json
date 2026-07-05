@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783246532,
+  "generated_at": 1783246602,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -499,27 +499,9 @@
       },
       "cosmetics_unlocked": [
         {
-          "id": "hand:poesidon staff",
-          "name": "Poesidon Staff",
-          "category": "Hand",
-          "rarity": "common"
-        },
-        {
           "id": "hand:sword",
           "name": "Sword",
           "category": "Hand",
-          "rarity": "common"
-        },
-        {
-          "id": "hat:apprentice hat",
-          "name": "Apprentice Hat",
-          "category": "Hat",
-          "rarity": "common"
-        },
-        {
-          "id": "hat:bday hat",
-          "name": "Bday Hat",
-          "category": "Hat",
           "rarity": "common"
         },
         {
@@ -527,120 +509,6 @@
           "name": "Party Hat Angle",
           "category": "Hat",
           "rarity": "common"
-        },
-        {
-          "id": "hat:ranger cap",
-          "name": "Ranger Cap",
-          "category": "Hat",
-          "rarity": "common"
-        },
-        {
-          "id": "hat:santa hat",
-          "name": "Santa Hat",
-          "category": "Hat",
-          "rarity": "common"
-        },
-        {
-          "id": "hat:witch hat",
-          "name": "Witch Hat",
-          "category": "Hat",
-          "rarity": "common"
-        },
-        {
-          "id": "hat:wizards hat",
-          "name": "Wizards Hat",
-          "category": "Hat",
-          "rarity": "common"
-        },
-        {
-          "id": "hat:sultans hat",
-          "name": "Sultans Hat",
-          "category": "Hat",
-          "rarity": "rare"
-        },
-        {
-          "id": "hat:santa beard",
-          "name": "Santa Beard",
-          "category": "Hat",
-          "rarity": "rare"
-        },
-        {
-          "id": "hat:pumpkin",
-          "name": "Pumpkin",
-          "category": "Hat",
-          "rarity": "rare"
-        },
-        {
-          "id": "pets:batty",
-          "name": "Batty",
-          "category": "Pets",
-          "rarity": "rare"
-        },
-        {
-          "id": "emote:quiz hat",
-          "name": "Quiz Hat",
-          "category": "Emote",
-          "rarity": "rare"
-        },
-        {
-          "id": "back:angel wings",
-          "name": "Angel Wings",
-          "category": "Back",
-          "rarity": "rare"
-        },
-        {
-          "id": "back:ash wings",
-          "name": "Ash Wings",
-          "category": "Back",
-          "rarity": "rare"
-        },
-        {
-          "id": "back:blood wings",
-          "name": "Blood Wings",
-          "category": "Back",
-          "rarity": "rare"
-        },
-        {
-          "id": "back:deadeye wings",
-          "name": "Deadeye Wings",
-          "category": "Back",
-          "rarity": "rare"
-        },
-        {
-          "id": "back:monarch wings",
-          "name": "Monarch Wings",
-          "category": "Back",
-          "rarity": "rare"
-        },
-        {
-          "id": "pets:deinosuchus",
-          "name": "Deinosuchus",
-          "category": "Pets",
-          "rarity": "legendary"
-        },
-        {
-          "id": "pets:cow",
-          "name": "Cow",
-          "category": "Pets",
-          "rarity": "legendary"
-        },
-        {
-          "id": "emote:fire aura",
-          "name": "Fire Aura",
-          "category": "Emote",
-          "rarity": "legendary"
-        },
-        {
-          "id": "emote:scav fog",
-          "name": "Scav Fog",
-          "category": "Emote",
-          "rarity": "legendary"
-        },
-        {
-          "id": "emote:sun beam",
-          "name": "Sun Beam",
-          "category": "Emote",
-          "rarity": "legendary"
         }
       ],
       "text_effects_unlocked": [
@@ -791,8 +659,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 40,
+      "loot_boxes_opened": 41,
       "recent_unlocks": [
+        {
+          "name": "Sword",
+          "category": "Hand",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783246596
+        },
         {
           "name": "Glitch Sweep Text",
           "category": "Text Effect",
@@ -802,28 +678,20 @@
           "timestamp": 1783246501
         },
         {
-          "name": "Animated Rainbow Text",
-          "category": "Text Effect",
+          "name": "Cow",
+          "category": "Pets",
           "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-animated-rainbow",
-          "timestamp": 1783246461
-        },
-        {
-          "name": "Black Hole Text",
-          "category": "Text Effect",
-          "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-black-hole",
-          "timestamp": 1783246199
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783112499
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 24,
+        "cosmetics_unlocked": 2,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 20
+        "recent_unlocks": 12
       }
     },
     "kotaotake": {
