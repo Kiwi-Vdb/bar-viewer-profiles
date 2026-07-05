@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783246461,
+  "generated_at": 1783246468,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -769,6 +769,13 @@
           "rarity": "legendary",
           "class_name": "text-black-hole",
           "equip_command": "!equiptext Black Hole"
+        },
+        {
+          "id": "text-animated-rainbow",
+          "name": "Animated Rainbow Text",
+          "rarity": "legendary",
+          "class_name": "text-animated-rainbow",
+          "equip_command": "!equiptext Animated Rainbow"
         }
       ],
       "current_text_effect": {
@@ -807,7 +814,7 @@
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 18,
+        "text_effects_unlocked": 19,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
