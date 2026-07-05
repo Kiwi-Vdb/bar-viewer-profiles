@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   "generated_at": 1783256955,
+=======
+  "generated_at": 1783258424,
+>>>>>>> Stashed changes
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -670,6 +674,7 @@
           "rarity": "legendary",
           "class_name": "text-portal",
           "equip_command": "!equiptext Portal"
+<<<<<<< Updated upstream
         },
         {
           "id": "text-gift-box-surprise",
@@ -705,6 +710,8 @@
           "rarity": "legendary",
           "class_name": "text-glitch-sweep",
           "equip_command": "!equiptext Glitch Sweep"
+=======
+>>>>>>> Stashed changes
         }
       ],
       "current_text_effect": {
@@ -713,6 +720,7 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
+<<<<<<< Updated upstream
       "loot_boxes_opened": 50,
       "recent_unlocks": [
         {
@@ -738,12 +746,43 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783246767
+=======
+      "loot_boxes_opened": 34,
+      "recent_unlocks": [
+        {
+          "name": "Portal Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-portal",
+          "timestamp": 1783114820
+        },
+        {
+          "name": "Rainbow Comet Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-rainbow-comet",
+          "timestamp": 1783114796
+        },
+        {
+          "name": "Candle Wish Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-candle-wish",
+          "timestamp": 1783114259
+>>>>>>> Stashed changes
         }
       ],
       "totals": {
         "cosmetics_unlocked": 11,
         "cosmetics_available": 24,
+<<<<<<< Updated upstream
         "text_effects_unlocked": 20,
+=======
+        "text_effects_unlocked": 15,
+>>>>>>> Stashed changes
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
