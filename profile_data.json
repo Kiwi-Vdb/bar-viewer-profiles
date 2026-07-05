@@ -1,8 +1,12 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "generated_at": 1783259517,
 =======
   "generated_at": 1783260147,
+>>>>>>> Stashed changes
+=======
+  "generated_at": 1783261137,
 >>>>>>> Stashed changes
   "viewers": {
     "axolotl_eu": {
@@ -753,6 +757,7 @@
           "class_name": "text-portal",
           "equip_command": "!equiptext Portal"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         },
         {
           "id": "text-animated-rainbow",
@@ -769,6 +774,8 @@
           "equip_command": "!equiptext Gift Box Surprise"
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
         }
       ],
       "current_text_effect": {
@@ -777,6 +784,7 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "loot_boxes_opened": 36,
       "recent_unlocks": [
@@ -807,6 +815,11 @@
       "loot_boxes_opened": 34,
       "recent_unlocks": [
         {
+=======
+      "loot_boxes_opened": 34,
+      "recent_unlocks": [
+        {
+>>>>>>> Stashed changes
           "name": "Portal Text",
           "category": "Text Effect",
           "rarity": "legendary",
@@ -829,6 +842,9 @@
           "type": "text_effect",
           "text_effect": "text-candle-wish",
           "timestamp": 1783114259
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         }
       ],
@@ -836,7 +852,11 @@
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "text_effects_unlocked": 17,
+=======
+        "text_effects_unlocked": 15,
+>>>>>>> Stashed changes
 =======
         "text_effects_unlocked": 15,
 >>>>>>> Stashed changes
