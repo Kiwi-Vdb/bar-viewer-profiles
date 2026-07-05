@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": 1783256955,
-=======
-  "generated_at": 1783258424,
->>>>>>> Stashed changes
+  "generated_at": 1783258495,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -493,7 +489,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 166500,
+        "balance": 170100,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -545,15 +541,51 @@
           "rarity": "common"
         },
         {
+          "id": "hat:witch hat",
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "hat:wizards hat",
           "name": "Wizards Hat",
           "category": "Hat",
           "rarity": "common"
         },
         {
+          "id": "hat:sultans hat",
+          "name": "Sultans Hat",
+          "category": "Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "hat:santa beard",
+          "name": "Santa Beard",
+          "category": "Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "hat:pumpkin",
+          "name": "Pumpkin",
+          "category": "Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "pets:batty",
+          "name": "Batty",
+          "category": "Pets",
+          "rarity": "rare"
+        },
+        {
           "id": "emote:quiz hat",
           "name": "Quiz Hat",
           "category": "Emote",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:angel wings",
+          "name": "Angel Wings",
+          "category": "Back",
           "rarity": "rare"
         },
         {
@@ -563,9 +595,51 @@
           "rarity": "rare"
         },
         {
+          "id": "back:blood wings",
+          "name": "Blood Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:deadeye wings",
+          "name": "Deadeye Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:monarch wings",
+          "name": "Monarch Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
           "id": "pets:deinosuchus",
           "name": "Deinosuchus",
           "category": "Pets",
+          "rarity": "legendary"
+        },
+        {
+          "id": "pets:cow",
+          "name": "Cow",
+          "category": "Pets",
+          "rarity": "legendary"
+        },
+        {
+          "id": "emote:fire aura",
+          "name": "Fire Aura",
+          "category": "Emote",
+          "rarity": "legendary"
+        },
+        {
+          "id": "emote:scav fog",
+          "name": "Scav Fog",
+          "category": "Emote",
+          "rarity": "legendary"
+        },
+        {
+          "id": "emote:sun beam",
+          "name": "Sun Beam",
+          "category": "Emote",
           "rarity": "legendary"
         }
       ],
@@ -674,44 +748,6 @@
           "rarity": "legendary",
           "class_name": "text-portal",
           "equip_command": "!equiptext Portal"
-<<<<<<< Updated upstream
-        },
-        {
-          "id": "text-gift-box-surprise",
-          "name": "Gift Box Surprise Text",
-          "rarity": "legendary",
-          "class_name": "text-gift-box-surprise",
-          "equip_command": "!equiptext Gift Box Surprise"
-        },
-        {
-          "id": "text-gold-sparkle",
-          "name": "Gold Sparkle Text",
-          "rarity": "legendary",
-          "class_name": "text-gold-sparkle",
-          "equip_command": "!equiptext Gold Sparkle"
-        },
-        {
-          "id": "text-black-hole",
-          "name": "Black Hole Text",
-          "rarity": "legendary",
-          "class_name": "text-black-hole",
-          "equip_command": "!equiptext Black Hole"
-        },
-        {
-          "id": "text-animated-rainbow",
-          "name": "Animated Rainbow Text",
-          "rarity": "legendary",
-          "class_name": "text-animated-rainbow",
-          "equip_command": "!equiptext Animated Rainbow"
-        },
-        {
-          "id": "text-glitch-sweep",
-          "name": "Glitch Sweep Text",
-          "rarity": "legendary",
-          "class_name": "text-glitch-sweep",
-          "equip_command": "!equiptext Glitch Sweep"
-=======
->>>>>>> Stashed changes
         }
       ],
       "current_text_effect": {
@@ -720,33 +756,6 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-<<<<<<< Updated upstream
-      "loot_boxes_opened": 50,
-      "recent_unlocks": [
-        {
-          "name": "Quiz Hat",
-          "category": "Emote",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783256543
-        },
-        {
-          "name": "Bday Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783246789
-        },
-        {
-          "name": "Santa Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783246767
-=======
       "loot_boxes_opened": 34,
       "recent_unlocks": [
         {
@@ -772,17 +781,12 @@
           "type": "text_effect",
           "text_effect": "text-candle-wish",
           "timestamp": 1783114259
->>>>>>> Stashed changes
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 11,
+        "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-<<<<<<< Updated upstream
-        "text_effects_unlocked": 20,
-=======
         "text_effects_unlocked": 15,
->>>>>>> Stashed changes
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
