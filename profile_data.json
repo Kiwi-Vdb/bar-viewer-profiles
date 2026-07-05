@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783259472,
+  "generated_at": 1783259517,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -755,6 +755,13 @@
           "rarity": "legendary",
           "class_name": "text-animated-rainbow",
           "equip_command": "!equiptext Animated Rainbow"
+        },
+        {
+          "id": "text-gift-box-surprise",
+          "name": "Gift Box Surprise Text",
+          "rarity": "legendary",
+          "class_name": "text-gift-box-surprise",
+          "equip_command": "!equiptext Gift Box Surprise"
         }
       ],
       "current_text_effect": {
@@ -763,8 +770,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 35,
+      "loot_boxes_opened": 36,
       "recent_unlocks": [
+        {
+          "name": "Gift Box Surprise Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-gift-box-surprise",
+          "timestamp": 1783259511
+        },
         {
           "name": "Animated Rainbow Text",
           "category": "Text Effect",
@@ -780,20 +795,12 @@
           "type": "text_effect",
           "text_effect": "text-portal",
           "timestamp": 1783114820
-        },
-        {
-          "name": "Rainbow Comet Text",
-          "category": "Text Effect",
-          "rarity": "rare",
-          "type": "text_effect",
-          "text_effect": "text-rainbow-comet",
-          "timestamp": 1783114796
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 16,
+        "text_effects_unlocked": 17,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
