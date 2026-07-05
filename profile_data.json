@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783246750,
+  "generated_at": 1783246774,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -529,6 +529,12 @@
           "rarity": "common"
         },
         {
+          "id": "hat:santa hat",
+          "name": "Santa Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "hat:wizards hat",
           "name": "Wizards Hat",
           "category": "Hat",
@@ -695,8 +701,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 47,
+      "loot_boxes_opened": 48,
       "recent_unlocks": [
+        {
+          "name": "Santa Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783246767
+        },
         {
           "name": "Ranger Cap",
           "category": "Hat",
@@ -712,22 +726,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783246724
-        },
-        {
-          "name": "Poesidon Staff",
-          "category": "Hand",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783246694
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 8,
+        "cosmetics_unlocked": 9,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 18
+        "recent_unlocks": 19
       }
     },
     "kotaotake": {
