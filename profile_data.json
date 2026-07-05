@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783246774,
+  "generated_at": 1783256536,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -517,6 +517,12 @@
           "rarity": "common"
         },
         {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "hat:party hat angle",
           "name": "Party Hat Angle",
           "category": "Hat",
@@ -701,8 +707,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 48,
+      "loot_boxes_opened": 49,
       "recent_unlocks": [
+        {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783246789
+        },
         {
           "name": "Santa Hat",
           "category": "Hat",
@@ -718,22 +732,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1783246744
-        },
-        {
-          "name": "Wizards Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1783246724
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 9,
+        "cosmetics_unlocked": 10,
         "cosmetics_available": 24,
         "text_effects_unlocked": 20,
         "text_effects_available": 20,
-        "recent_unlocks": 19
+        "recent_unlocks": 20
       }
     },
     "kotaotake": {
