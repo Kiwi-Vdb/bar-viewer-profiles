@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783246468,
+  "generated_at": 1783246507,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -776,6 +776,13 @@
           "rarity": "legendary",
           "class_name": "text-animated-rainbow",
           "equip_command": "!equiptext Animated Rainbow"
+        },
+        {
+          "id": "text-glitch-sweep",
+          "name": "Glitch Sweep Text",
+          "rarity": "legendary",
+          "class_name": "text-glitch-sweep",
+          "equip_command": "!equiptext Glitch Sweep"
         }
       ],
       "current_text_effect": {
@@ -784,8 +791,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 38,
+      "loot_boxes_opened": 39,
       "recent_unlocks": [
+        {
+          "name": "Glitch Sweep Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-glitch-sweep",
+          "timestamp": 1783246501
+        },
         {
           "name": "Animated Rainbow Text",
           "category": "Text Effect",
@@ -801,20 +816,12 @@
           "type": "text_effect",
           "text_effect": "text-black-hole",
           "timestamp": 1783246199
-        },
-        {
-          "name": "Gold Sparkle Text",
-          "category": "Text Effect",
-          "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-gold-sparkle",
-          "timestamp": 1783246181
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 19,
+        "text_effects_unlocked": 20,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
