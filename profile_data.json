@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783676625,
+  "generated_at": 1783677782,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -892,10 +892,26 @@
           "rarity": "common"
         }
       ],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-brown",
+          "name": "Brown Text",
+          "rarity": "common",
+          "class_name": "text-brown",
+          "equip_command": "!equiptext Brown"
+        }
+      ],
       "current_text_effect": null,
-      "loot_boxes_opened": 1,
+      "loot_boxes_opened": 2,
       "recent_unlocks": [
+        {
+          "name": "Brown Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-brown",
+          "timestamp": 1783677775
+        },
         {
           "name": "Witch Hat",
           "category": "Hat",
@@ -908,9 +924,9 @@
       "totals": {
         "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 1
+        "recent_unlocks": 2
       }
     },
     "professor_bar": {
