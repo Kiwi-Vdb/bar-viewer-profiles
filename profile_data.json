@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783677836,
+  "generated_at": 1783678155,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -894,6 +894,13 @@
       ],
       "text_effects_unlocked": [
         {
+          "id": "text-purple",
+          "name": "Purple Text",
+          "rarity": "common",
+          "class_name": "text-purple",
+          "equip_command": "!equiptext Purple"
+        },
+        {
           "id": "text-brown",
           "name": "Brown Text",
           "rarity": "common",
@@ -901,7 +908,12 @@
           "equip_command": "!equiptext Brown"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-purple",
+        "name": "Purple Text",
+        "rarity": "common",
+        "class_name": "text-purple"
+      },
       "loot_boxes_opened": 2,
       "recent_unlocks": [
         {
@@ -924,7 +936,7 @@
       "totals": {
         "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 1,
+        "text_effects_unlocked": 2,
         "text_effects_available": 20,
         "recent_unlocks": 2
       }
